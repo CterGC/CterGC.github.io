@@ -7,6 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-关于我?
-bilbil主页https://space.bilibili.com/616008221?spm_id_from=333.1007.0.0
-QQ：2874860007
+关于我?bilbil主页https://space.bilibili.com/616008221?spm_id_from=333.1007.0.0QQ：2874860007
